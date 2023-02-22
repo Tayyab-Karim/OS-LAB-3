@@ -14,10 +14,11 @@ Setting a ip:open netplan and statically set the IP address so that DHCP4 ccan f
 ![T6](https://user-images.githubusercontent.com/123717266/220567425-31f61fac-a489-4f63-888e-ace1b1164ea4.PNG)
 
 
-![T7](https://user-images.githubusercontent.com/123717266/220567779-a37be7c7-e83e-4d16-97c0-f0cc32c705a1.PNG)
+![T7](https://user-images.githubusercontent.com/123717266/220569590-ca97cb28-d365-4d23-b953-4b792b87055a.PNG)
 
 
-![T8](https://user-images.githubusercontent.com/123717266/220567829-38ee5114-18e7-4e1c-95a4-bb539b8acc3b.PNG)
+![T8](https://user-images.githubusercontent.com/123717266/220569640-fee18747-65c6-435a-a2a4-44de5a1ba978.PNG)
+
 
 
 ![T9](https://user-images.githubusercontent.com/123717266/220567886-5788680d-09e8-4592-a40b-d1cfabc3138d.PNG)
