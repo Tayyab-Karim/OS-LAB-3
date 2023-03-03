@@ -11,6 +11,8 @@ Setting a ip:open netplan and statically set the IP address so that DHCP4 ccan f
 ![T4](https://user-images.githubusercontent.com/123717266/220567317-eb719ae7-9acb-4a37-a42c-c74a94e8441f.PNG)
 
 
+
+
 ![T6](https://user-images.githubusercontent.com/123717266/220567425-31f61fac-a489-4f63-888e-ace1b1164ea4.PNG)
 
 
