@@ -44,16 +44,26 @@ This will show that your samba is active/running.
 
 ![T3 Sambaa](https://user-images.githubusercontent.com/123717266/222710234-460d4651-b728-404c-abf0-802b42d54dde.PNG)
 
-Now give permission to the above directory named sharingFolder sudo chmod 777 /home/tayyab/sharingFolder COMMAND
+4) Now give permission to the above directory named sharingFolder sudo chmod 777 /home/tayyab/sharingFolder COMMAND
 
 ![T4 Sambaa](https://user-images.githubusercontent.com/123717266/222710668-59f3c8a9-a49b-4819-80cc-128dbf324e9c.PNG)
 
+5) Now create samba side user to access the directory
+
+# sudo useradd user1 COMMAND
 
 ![T5 Sambaa](https://user-images.githubusercontent.com/123717266/222710713-547b53ac-d830-4b07-9bf8-eb51f7f0cf1f.PNG)
 
+6) Now set Samba user password 
+
+sudo smbpasswd -a user1 COMMAND
 
 ![T6 Samba](https://user-images.githubusercontent.com/123717266/222710800-fc2dc901-0441-43d9-b58b-53e670db2c4f.PNG)
 
+7) Now go to samba configuration file to enable sharing of the directory sharingFolder
+sudo nano /etc/samba/smb.conf COMMAND
+
+![T7 Samba](https://user-images.githubusercontent.com/123717266/222711948-a4979c4f-fa8b-4c1c-b890-4d57a6c5f84e.PNG)
 
 
 
