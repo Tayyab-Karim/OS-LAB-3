@@ -60,11 +60,16 @@ sudo smbpasswd -a user1 COMMAND
 
 ![T6 Samba](https://user-images.githubusercontent.com/123717266/222710800-fc2dc901-0441-43d9-b58b-53e670db2c4f.PNG)
 
-7) Now go to samba configuration file to enable sharing of the directory sharingFolder
-sudo nano /etc/samba/smb.conf COMMAND
+set the password of user1 
 
 ![T7 Samba](https://user-images.githubusercontent.com/123717266/222711948-a4979c4f-fa8b-4c1c-b890-4d57a6c5f84e.PNG)
 
+7) Now go to samba configuration file to enable sharing of the directory sharingFolder
+sudo nano /etc/samba/smb.conf COMMAND
+
+![T8 Samba](https://user-images.githubusercontent.com/123717266/222713621-16a9b241-8fda-42b5-9689-d614ea8f9d35.PNG)
+
+After opening the file go to the bottom of the file using Ctrl+V and type the below commands after getting the bottom of that file by using Ctrl+V again and again.
 
 
 
