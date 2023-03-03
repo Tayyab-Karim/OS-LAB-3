@@ -27,7 +27,32 @@ Setting a ip:open netplan and statically set the IP address so that DHCP4 ccan f
 ![T9](https://user-images.githubusercontent.com/123717266/220567886-5788680d-09e8-4592-a40b-d1cfabc3138d.PNG)
 
 
-# Installation and COnfiguration of Samba
+# Installation and Configuration of Samba
+1) To install Smaba on your Linux use this command
 
 ![T1 Sambaa](https://user-images.githubusercontent.com/123717266/222709509-ebf45310-49fd-4e31-8a65-cfdbdef17144.PNG)
+
+2) After installing check Samba status using the following command
+
+This will show that your samba is active/running.
+
+![T2 Sambaa](https://user-images.githubusercontent.com/123717266/222709989-3ee57ff1-79ed-45fb-bf73-e2430eddfe73.PNG)
+
+3) Now create a directory that will be shared across platform.
+
+![T3 Sambaa](https://user-images.githubusercontent.com/123717266/222710234-460d4651-b728-404c-abf0-802b42d54dde.PNG)
+# sudo mkdir -p /home/tayyab/sharingFolder command to create directory that will be later shared across platform
+
+![T4 Sambaa](https://user-images.githubusercontent.com/123717266/222710668-59f3c8a9-a49b-4819-80cc-128dbf324e9c.PNG)
+
+
+![T5 Sambaa](https://user-images.githubusercontent.com/123717266/222710713-547b53ac-d830-4b07-9bf8-eb51f7f0cf1f.PNG)
+
+Now give permission to the above directory named sharingFolder sudo chmod 777 /home/tayyab/sharingFolder COMMAND
+
+![T6 Samba](https://user-images.githubusercontent.com/123717266/222710800-fc2dc901-0441-43d9-b58b-53e670db2c4f.PNG)
+
+
+
+
 
