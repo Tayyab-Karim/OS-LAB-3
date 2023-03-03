@@ -22,6 +22,12 @@ Setting a ip:open netplan and statically set the IP address so that DHCP4 ccan f
 ![T8](https://user-images.githubusercontent.com/123717266/220569640-fee18747-65c6-435a-a2a4-44de5a1ba978.PNG)
 
 
-RESTART NETWORK MANAGER SERVICE
+# RESTART NETWORK MANAGER SERVICE
 
 ![T9](https://user-images.githubusercontent.com/123717266/220567886-5788680d-09e8-4592-a40b-d1cfabc3138d.PNG)
+
+
+# Installation and COnfiguration of Samba
+
+![T1 Sambaa](https://user-images.githubusercontent.com/123717266/222709509-ebf45310-49fd-4e31-8a65-cfdbdef17144.PNG)
+
